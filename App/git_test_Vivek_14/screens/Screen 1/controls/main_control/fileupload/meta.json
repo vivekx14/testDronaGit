@@ -152,14 +152,14 @@
     "dhqGrid": {
         "w": 4,
         "h": 9,
-        "x": 9,
-        "y": 44
+        "x": 18,
+        "y": 16
     },
     "dhqGridDesktop": {
         "w": 4,
         "h": 9,
-        "x": 9,
-        "y": 62
+        "x": 18,
+        "y": 16
     },
     "dhqGridChanged": false,
     "isDhqGridCtrl": true,
