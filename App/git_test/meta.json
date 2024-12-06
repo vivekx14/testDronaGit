@@ -1,0 +1,25 @@
+{
+    "template_name": "git_test",
+    "description": "Description",
+    "group_id": [],
+    "plugin_id": "11",
+    "action": "add",
+    "sample_images": [],
+    "channel_id": "2",
+    "is_active": true,
+    "embed": {
+        "action": ""
+    },
+    "is_show_case_app": 0,
+    "meta": "",
+    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/2QalEVp4PJ.png",
+    "_engVer": "1.1.0",
+    "git_branch_id": "1",
+    "is_premium": false,
+    "app_data": {
+        "formBuilderJSON": {
+            "workflowIdAndNameMapping": {}
+        }
+    },
+    "is_new_template": true
+}
