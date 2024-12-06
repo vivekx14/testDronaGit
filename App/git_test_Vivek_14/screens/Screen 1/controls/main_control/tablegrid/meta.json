@@ -736,13 +736,13 @@
     "dhqGrid": {
         "w": 15,
         "h": 47,
-        "x": 1,
-        "y": 1
+        "x": 2,
+        "y": 15
     },
     "dhqGridDesktop": {
         "w": 15,
         "h": 47,
-        "x": 1,
+        "x": 2,
         "y": 15
     },
     "dhqGridChanged": false,
@@ -752,6 +752,5 @@
     "cid": "c28RyX7lXSG97AiTV6Ag",
     "sid": "sc28RyX7lXSG97AiTV6Ag",
     "dhqEvtConverted": true,
-    "sb_mode": "JS",
-    "gridDesktopOrigin": null
+    "sb_mode": "JS"
 }
