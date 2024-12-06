@@ -736,13 +736,13 @@
     "dhqGrid": {
         "w": 15,
         "h": 47,
-        "x": 2,
+        "x": 5,
         "y": 15
     },
     "dhqGridDesktop": {
         "w": 15,
         "h": 47,
-        "x": 2,
+        "x": 5,
         "y": 15
     },
     "dhqGridChanged": false,
