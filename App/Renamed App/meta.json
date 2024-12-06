@@ -1,5 +1,5 @@
 {
-    "template_name": "git_test_Vivek_14",
+    "template_name": "Renamed App",
     "description": "Description",
     "group_id": [],
     "plugin_id": "11",
@@ -12,7 +12,7 @@
     },
     "is_show_case_app": 0,
     "meta": "",
-    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/2QalEVp4PJ.png",
+    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/gi71zNwMyx.png",
     "_engVer": "1.1.0",
     "git_branch_id": "1",
     "is_premium": false,
