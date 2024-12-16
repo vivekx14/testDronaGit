@@ -4,7 +4,7 @@
   "usedFieldsName": "dhq_select_button,list,image_upload,dhq_advance_dropdown",
   "metadata": {},
   "env": "prod",
-  "newVersion": "0.0.4",
+  "newVersion": "0.0.5",
   "pluginId": "11",
   "subCatList": "",
   "multistepAuthUsedInAppList": [],
