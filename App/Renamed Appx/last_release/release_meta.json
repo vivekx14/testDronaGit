@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "gg",
+  "releaseNotes": "th",
   "usedFieldsName": "dhq_select_button,list,image_upload,dhq_advance_dropdown",
   "metadata": {},
   "env": "prod",
-  "newVersion": "0.0.5",
+  "newVersion": "0.0.6",
   "pluginId": "11",
   "subCatList": "",
   "multistepAuthUsedInAppList": [],
