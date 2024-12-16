@@ -1,6 +1,6 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "dev",
+  "releaseNotes": "gg",
   "usedFieldsName": "dhq_select_button,list,image_upload,dhq_advance_dropdown",
   "metadata": {},
   "env": "prod",
@@ -8,7 +8,7 @@
   "pluginId": "11",
   "subCatList": "",
   "multistepAuthUsedInAppList": [],
-  "plugin_name": "Renamed Appx",
+  "plugin_name": "",
   "studioThemes": {
     "Light": {
       "--DHQ-base-font": "13px",
