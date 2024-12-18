@@ -1,14 +1,14 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "pubtest",
+  "releaseNotes": "pubtest2",
   "usedFieldsName": "dhq_grouped_menu",
   "metadata": {},
   "env": "prod",
-  "newVersion": "0.0.1",
+  "newVersion": "0.0.2",
   "pluginId": "28",
   "subCatList": "",
   "multistepAuthUsedInAppList": [],
-  "plugin_name": "App_20",
+  "plugin_name": "",
   "studioThemes": {
     "Light": {
       "--DHQ-base-font": "13px",
