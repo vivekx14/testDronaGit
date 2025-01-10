@@ -1,6 +1,6 @@
 {
     "template_name": "vivek_edit_test_2",
-    "description": "Description",
+    "description": "Descriptio",
     "group_id": [],
     "plugin_id": "",
     "action": "add",
@@ -12,7 +12,7 @@
     },
     "is_show_case_app": 0,
     "meta": "",
-    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/VTTbw8TcaD.png",
+    "icon_url": "http://localhost:8080/filerepository/files/DRONA5_Team2/content/app/icon/Fh56NiWI4T.png",
     "_engVer": "1.1.0",
     "is_premium": false,
     "app_data": {
