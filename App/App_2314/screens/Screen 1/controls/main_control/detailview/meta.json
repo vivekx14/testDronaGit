@@ -50,7 +50,14 @@
         "data": {}
     },
     "dhq_nsf_replaced": false,
-    "dhq_olddt_map": {},
+    "dhq_olddt_map": {
+        "fullname": "fullname",
+        "email": "email",
+        "address": "address",
+        "birthdate": "birthdate",
+        "phone": "phone",
+        "avatar": "avatar"
+    },
     "dhq_req_stats": {
         "status": ""
     },
