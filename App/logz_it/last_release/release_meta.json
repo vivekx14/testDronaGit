@@ -1,14 +1,14 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "test",
+  "releaseNotes": "as",
   "usedFieldsName": "tray",
   "metadata": {},
   "env": "prod",
-  "newVersion": "0.0.2",
+  "newVersion": "0.0.3",
   "pluginId": "2251",
   "subCatList": "",
   "multistepAuthUsedInAppList": [],
-  "plugin_name": "",
+  "plugin_name": "logz_it",
   "studioThemes": {
     "Light": {
       "--DHQ-base-font": "13px",
