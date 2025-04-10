@@ -1,0 +1,21 @@
+{
+    "cat_id": 1000775,
+    "catName": "RAJ_mysql_nestle",
+    "catDesc": "",
+    "catIcon": "./Images/dblogos/mysql.png",
+    "schemeType": "db_connector",
+    "cat_created_on": null,
+    "cat_modify_on": "2025-02-10T09:31:11.000Z",
+    "cat_created_by": "",
+    "isGlobal": false,
+    "isEditable": true,
+    "isCatPublic": false,
+    "isInstalled": false,
+    "isCatEditable": true,
+    "showAddOption": true,
+    "cat_type": "mysql",
+    "format_id": "27f544a9-295e-11ef-bf2c-0242ac1a0002",
+    "permission": "1000",
+    "multistep_auth_steps": {},
+    "channel_id": "2"
+}
