@@ -1,0 +1,72 @@
+{
+    "api_id": 1,
+    "api_name": "variable_RyK5BnaYesZxKWCaH1741689945917",
+    "cat_id": "__REPLACE_CAT_ID_1000775___",
+    "cat_name": "__REPLACE_CAT_NAME_1000775___",
+    "sub_cat_id": "__REPLACE_SUB_CAT_ID_1005050___",
+    "sub_cat_name": "__REPLACE_SUB_CAT_NAME_1005050___",
+    "cat_icon_url": "./Images/dblogos/mysql.png",
+    "method": "db_query",
+    "query": {},
+    "param": {},
+    "header": {},
+    "body": {
+        "mode": "db_query",
+        "formdata": {},
+        "variables": {
+            "tablegrid.PROPERTIES.LIMIT": {
+                "editor_type": "JSEditor",
+                "isDynamic": false,
+                "isField": true,
+                "keyName": "tablegrid.PROPERTIES.LIMIT",
+                "keyID": "list_c32RS8DWxTXidIfyzik7.PROPERTIES.LIMIT",
+                "keyNameMappping": [],
+                "keyType": "text",
+                "keyValue": "{{list_c32RS8DWxTXidIfyzik7.PROPERTIES.LIMIT}}",
+                "label": "",
+                "name": "",
+                "preselect": false,
+                "testValue": "100"
+            },
+            "tablegrid.PROPERTIES.OFFSET": {
+                "editor_type": "JSEditor",
+                "isDynamic": false,
+                "isField": true,
+                "keyName": "tablegrid.PROPERTIES.OFFSET",
+                "keyID": "list_c32RS8DWxTXidIfyzik7.PROPERTIES.OFFSET",
+                "keyNameMappping": [],
+                "keyType": "text",
+                "keyValue": "{{list_c32RS8DWxTXidIfyzik7.PROPERTIES.OFFSET}}",
+                "label": "",
+                "name": "",
+                "preselect": false,
+                "testValue": "0"
+            }
+        }
+    },
+    "auth": {},
+    "triggerOnPageload": false,
+    "execution_editor_type": "JSEditor",
+    "execution_condition_variable_with_name": "",
+    "execution_condition_variable": "",
+    "scheme_type": "db_connector",
+    "account_id": "account_84651501_1718267033016",
+    "filterObjectMapping": [],
+    "sanitizeResponseFlag": false,
+    "rawResponse": {
+        "error": ""
+    },
+    "processedResp": {
+        "error": ""
+    },
+    "paginationType": "none",
+    "offsetKeyPath": "",
+    "hasMoreKeyPath": "",
+    "misc": {},
+    "additionalKeywords": {},
+    "formatedSchema": {},
+    "bindedTo": "variable",
+    "createdVia": "variable",
+    "autoTransform": false,
+    "cat_type": "mysql"
+}
