@@ -1,14 +1,14 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "aa",
+  "releaseNotes": "wawa",
   "usedFieldsName": "list",
   "metadata": {},
   "env": "prod",
-  "newVersion": "0.0.5",
+  "newVersion": "0.0.7",
   "pluginId": "2459",
   "subCatList": "",
   "multistepAuthUsedInAppList": [],
-  "plugin_name": "App_2459",
+  "plugin_name": "",
   "studioThemes": {
     "Light": {
       "--DHQ-base-font": "13px",
