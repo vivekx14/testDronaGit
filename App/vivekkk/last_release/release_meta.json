@@ -1,10 +1,10 @@
 {
   "PackageWithNewControls": true,
-  "releaseNotes": "aa",
+  "releaseNotes": "acc",
   "usedFieldsName": "tray",
   "metadata": {},
   "env": "prod",
-  "newVersion": "0.0.1",
+  "newVersion": "0.0.3",
   "pluginId": "2387",
   "subCatList": "1005050",
   "multistepAuthUsedInAppList": [],
