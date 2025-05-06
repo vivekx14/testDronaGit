@@ -1,0 +1,21 @@
+{
+    "cat_id": 1000824,
+    "catName": "AJ_mongodb_mydb",
+    "catDesc": "",
+    "catIcon": "./Images/dblogos/mongo.png",
+    "schemeType": "db_connector",
+    "cat_created_on": null,
+    "cat_modify_on": "2024-07-05T06:33:52.000Z",
+    "cat_created_by": "",
+    "isGlobal": false,
+    "isEditable": true,
+    "isCatPublic": false,
+    "isInstalled": false,
+    "isCatEditable": true,
+    "showAddOption": true,
+    "cat_type": "mongodb",
+    "format_id": "a944df6f-39d8-11ef-bd01-0242ac1a0002",
+    "permission": "1000",
+    "multistep_auth_steps": {},
+    "channel_id": "2"
+}

@@ -1,0 +1,67 @@
+{
+    "api_name": "variable_R3joPAEKKlxzkXDN11746511195418",
+    "cat_id": "__REPLACE_CAT_ID_1000824___",
+    "cat_name": "__REPLACE_CAT_NAME_1000824___",
+    "sub_cat_name": "query_4",
+    "cat_icon_url": "./Images/dblogos/mongo.png",
+    "method": "db_query",
+    "query": {},
+    "param": {},
+    "header": {},
+    "body": {
+        "mode": "db_query",
+        "formdata": {},
+        "variables": {
+            "collectionName": {
+                "keyName": "collectionName",
+                "isField": true,
+                "keyType": "text",
+                "keyValue": "customers",
+                "testValue": "customers",
+                "preselect": false,
+                "name": "",
+                "label": "",
+                "isDynamic": false,
+                "keyNameMapping": [],
+                "editor_type": "JSEditor"
+            }
+        }
+    },
+    "auth": {},
+    "triggerOnPageload": false,
+    "autoTransform": false,
+    "execution_editor_type": "JSEditor",
+    "execution_condition_variable_with_name": "",
+    "execution_condition_variable": "",
+    "error_msg": "",
+    "scheme_type": "db_connector",
+    "account_id": "__REPLACE_ACCOUNT_ID_1000824___",
+    "filterObjectMapping": [],
+    "sanitizeResponseFlag": false,
+    "allow_offline_submission": false,
+    "download_as_file": false,
+    "secureResponse": false,
+    "rawResponse": [
+        {
+            "_id": "62d680a732cfdc4b0f744464",
+            "name": "Company Inc",
+            "address": "Highway 37"
+        }
+    ],
+    "processedResp": {},
+    "paginationType": "none",
+    "offsetKeyPath": "",
+    "hasMoreKeyPath": "",
+    "misc": {},
+    "additionalKeywords": {},
+    "formatedSchema": {},
+    "bindedTo": "variable",
+    "createdVia": "variable",
+    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
+    "filterKeysOptions": {
+        "_id": "62d680a732cfdc4b0f744464",
+        "name": "Company Inc",
+        "address": "Highway 37"
+    },
+    "cat_type": "mongodb"
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "field": "_id",
+        "display_name": "_id",
+        "data_type": "string",
+        "field_database_editor_data_format": "single_line_text"
+    },
+    {
+        "field": "name",
+        "display_name": "name",
+        "data_type": "string",
+        "field_database_editor_data_format": "single_line_text"
+    },
+    {
+        "field": "address",
+        "display_name": "address",
+        "data_type": "string",
+        "field_database_editor_data_format": "single_line_text"
+    }
+]
