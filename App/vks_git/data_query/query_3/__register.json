@@ -1,0 +1,67 @@
+{
+    "api_name": "variable_Rhv4v8dpmMzNIYcuw1746510113422",
+    "cat_id": "__REPLACE_CAT_ID_1000878___",
+    "cat_name": "__REPLACE_CAT_NAME_1000878___",
+    "sub_cat_name": "query_3",
+    "cat_icon_url": "./Images/dblogos/mysql.png",
+    "method": "db_query",
+    "query": {},
+    "param": {},
+    "header": {},
+    "body": {
+        "mode": "db_query",
+        "formdata": {},
+        "variables": {
+            "table": {
+                "keyName": "table",
+                "isField": true,
+                "keyType": "text",
+                "keyValue": "Dept",
+                "testValue": "Dept",
+                "preselect": false,
+                "name": "",
+                "label": "",
+                "isDynamic": false,
+                "keyNameMapping": [],
+                "editor_type": "JSEditor"
+            }
+        }
+    },
+    "auth": {},
+    "triggerOnPageload": false,
+    "autoTransform": false,
+    "execution_editor_type": "JSEditor",
+    "execution_condition_variable_with_name": "",
+    "execution_condition_variable": "",
+    "error_msg": "",
+    "scheme_type": "db_connector",
+    "account_id": "__REPLACE_ACCOUNT_ID_1000878___",
+    "filterObjectMapping": [],
+    "sanitizeResponseFlag": false,
+    "allow_offline_submission": false,
+    "download_as_file": false,
+    "secureResponse": false,
+    "rawResponse": [
+        {
+            "id": 12,
+            "name": "emp",
+            "emp_id": 232
+        }
+    ],
+    "processedResp": {},
+    "paginationType": "none",
+    "offsetKeyPath": "",
+    "hasMoreKeyPath": "",
+    "misc": {},
+    "additionalKeywords": {},
+    "formatedSchema": {},
+    "bindedTo": "variable",
+    "createdVia": "variable",
+    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
+    "filterKeysOptions": {
+        "id": "12",
+        "name": "emp",
+        "emp_id": "232"
+    },
+    "cat_type": "mysql"
+}
