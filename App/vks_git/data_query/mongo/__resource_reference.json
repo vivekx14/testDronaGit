@@ -1,36 +1,34 @@
 {
-    "name": "variable_Rhv4v8dpmMzNIYcuw1746510113422",
+    "name": "variable_R3joPAEKKlxzkXDN11746511195418",
     "channel_id": "__REPLACE_CHANNEL_ID___",
-    "category_id": "__REPLACE_CAT_ID_1000878___",
+    "category_id": "__REPLACE_CAT_ID_1000824___",
     "sub_category_id": null,
     "response": {
         "success": true,
         "contentType": "",
-        "content": [
-            {
-                "id": 12,
-                "name": "emp",
-                "emp_id": 232
-            }
-        ],
+        "content": {
+            "_id": "62d680a732cfdc4b0f744464",
+            "name": "Company Inc",
+            "address": "Highway 37"
+        },
         "Headers": [],
         "StatusCode": 200,
         "StatusDescription": "Ok"
     },
     "failure": {
-        "success": true,
-        "contentType": "",
-        "content": "Error: Table 'demohq.dept' doesn't exist",
-        "Headers": [],
-        "StatusCode": 500,
-        "StatusDescription": "Error: Table 'demohq.dept' doesn't exist"
+        "Header": [],
+        "StatusCode": 0,
+        "StatusDescription": "",
+        "content": "",
+        "dynamic_variables": [],
+        "success": false
     },
     "failureCondition": [],
     "proxy": false,
     "preselectfields": [
         {
-            "field_key": "body.table",
-            "field_name": "table",
+            "field_key": "body.collectionName",
+            "field_name": "collectionName",
             "field_default_value": "",
             "field_mandatory": false,
             "field_hidden": false,
@@ -50,15 +48,15 @@
         "body": {
             "variables": [
                 {
-                    "keyName": "table",
-                    "keyID": "table",
-                    "keyValue": "{{table}}",
+                    "keyName": "collectionName",
+                    "keyID": "collectionName",
+                    "keyValue": "{{collectionName}}",
                     "keyType": "string",
                     "keyIsDynamic": true
                 }
             ],
             "mode": "db_query",
-            "queryEditor": "sql"
+            "queryEditor": ""
         },
         "header": [],
         "url": {
@@ -67,14 +65,14 @@
             "query": [],
             "param": []
         },
-        "account_id": "__REPLACE_ACCOUNT_ID_1000878___",
+        "account_id": "__REPLACE_ACCOUNT_ID_1000824___",
         "description": "",
         "remove_empty_keys": false,
         "skip_uri_component_encoding": false,
         "request_timeout": 0
     },
     "usedInVariable": true,
-    "variableDisName": "query_3",
+    "variableDisName": "mongo",
     "is_deleted": 0,
     "meta": "",
     "isAppInternalSubcat": 1,

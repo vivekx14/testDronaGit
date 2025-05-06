@@ -1,16 +1,16 @@
 {
-    "name": "variable_R3joPAEKKlxzkXDN11746511195418",
+    "name": "variable_Rhv4v8dpmMzNIYcuw1746510113422",
     "channel_id": "__REPLACE_CHANNEL_ID___",
-    "category_id": "__REPLACE_CAT_ID_1000824___",
+    "category_id": "__REPLACE_CAT_ID_1000878___",
     "sub_category_id": null,
     "response": {
         "success": true,
         "contentType": "",
         "content": [
             {
-                "_id": "62d680a732cfdc4b0f744464",
-                "name": "Company Inc",
-                "address": "Highway 37"
+                "id": 12,
+                "name": "emp",
+                "emp_id": 232
             }
         ],
         "Headers": [],
@@ -18,19 +18,19 @@
         "StatusDescription": "Ok"
     },
     "failure": {
-        "Header": [],
-        "StatusCode": 0,
-        "StatusDescription": "",
-        "content": "",
-        "dynamic_variables": [],
-        "success": false
+        "success": true,
+        "contentType": "",
+        "content": "Error: Table 'demohq.dept' doesn't exist",
+        "Headers": [],
+        "StatusCode": 500,
+        "StatusDescription": "Error: Table 'demohq.dept' doesn't exist"
     },
     "failureCondition": [],
     "proxy": false,
     "preselectfields": [
         {
-            "field_key": "body.collectionName",
-            "field_name": "collectionName",
+            "field_key": "body.table",
+            "field_name": "table",
             "field_default_value": "",
             "field_mandatory": false,
             "field_hidden": false,
@@ -50,15 +50,15 @@
         "body": {
             "variables": [
                 {
-                    "keyName": "collectionName",
-                    "keyID": "collectionName",
-                    "keyValue": "{{collectionName}}",
+                    "keyName": "table",
+                    "keyID": "table",
+                    "keyValue": "{{table}}",
                     "keyType": "string",
                     "keyIsDynamic": true
                 }
             ],
             "mode": "db_query",
-            "queryEditor": ""
+            "queryEditor": "sql"
         },
         "header": [],
         "url": {
@@ -67,14 +67,14 @@
             "query": [],
             "param": []
         },
-        "account_id": "__REPLACE_ACCOUNT_ID_1000824___",
+        "account_id": "__REPLACE_ACCOUNT_ID_1000878___",
         "description": "",
         "remove_empty_keys": false,
         "skip_uri_component_encoding": false,
         "request_timeout": 0
     },
     "usedInVariable": true,
-    "variableDisName": "query_4",
+    "variableDisName": "mysql",
     "is_deleted": 0,
     "meta": "",
     "isAppInternalSubcat": 1,

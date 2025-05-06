@@ -10,7 +10,7 @@
         "status": "resolved"
     },
     "dhq_set_value_via_action": false,
-    "display_name": "query_3",
+    "display_name": "mysql",
     "download_as_file": false,
     "evaluate_on_dependency_change": "everytime",
     "field_composition_type": "variable",

@@ -1,0 +1,39 @@
+{
+    "HEADERS": {
+        "date": "Tue, 06 May 2025 06:03:19 GMT",
+        "content_type": "application/json",
+        "transfer_encoding": "chunked",
+        "connection": "close",
+        "access_control_allow_origin": "*",
+        "access_control_allow_methods": "GET, POST, DELETE, PUT",
+        "access_control_allow_headers": "Content-Type, api_key, Authorization",
+        "server": "Jetty(9.2.9.v20150224)"
+    },
+    "RESPONSE_CODE": 200,
+    "RESPONSE_MESSAGE": "OK",
+    "FAILURE_CODE": "",
+    "FAILURE_MESSAGE": "",
+    "TIMESTAMP": {
+        "request_arrival": 1746511398515,
+        "request_validation": 1746511398515,
+        "query_preparation": 1746511398602,
+        "query_execution": 1746511398602,
+        "post_processing": 1746511399401,
+        "response": 1746511399402,
+        "transfer_data_arrival": 1746511399406,
+        "dataquery_preparation_arrival": 1746511398507,
+        "binding_post_processing_arrival": 1746511399407
+    },
+    "DURATION": {
+        "turn_around": 887,
+        "authentication": 0,
+        "validation": 87,
+        "preparation": 0,
+        "execution": 799,
+        "processing": 1,
+        "transfer_data": 9,
+        "prepare_data_query": 3,
+        "post_processing": null
+    },
+    "RESPONSE_SIZE": 138
+}

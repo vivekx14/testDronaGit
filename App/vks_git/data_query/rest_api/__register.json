@@ -2,7 +2,7 @@
     "api_name": "variable_RN8x4dkW19GypfiLx1746508998694",
     "cat_id": "__REPLACE_CAT_ID_10001___",
     "cat_name": "__REPLACE_CAT_NAME_10001___",
-    "sub_cat_name": "query_1",
+    "sub_cat_name": "rest_api",
     "cat_icon_url": "./Images/dblogos/restapi.png",
     "method": "get",
     "query": {},

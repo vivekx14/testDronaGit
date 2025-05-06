@@ -8,25 +8,25 @@
         "content": {
             "id": 1,
             "category": {
-                "id": 3,
-                "name": "Snake"
+                "id": 1,
+                "name": "string"
             },
-            "name": "Orochimaru",
+            "name": "doggie",
             "photoUrls": [
-                ""
+                "string"
             ],
             "tags": [
                 {
-                    "id": 303,
-                    "name": "Orochimaru"
+                    "id": 1,
+                    "name": "string"
                 }
             ],
-            "status": "sold"
+            "status": "available"
         },
         "Headers": [
             {
                 "key": "date",
-                "value": "Tue, 06 May 2025 05:31:47 GMT"
+                "value": "Tue, 06 May 2025 06:03:09 GMT"
             },
             {
                 "key": "content-type",
@@ -61,32 +61,28 @@
         "StatusDescription": "OK"
     },
     "failure": {
-        "contentType": "text/html",
-        "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+        "contentType": "application/json",
+        "content": {
+            "code": 1,
+            "type": "error",
+            "message": "Pet not found"
+        },
         "Headers": [
             {
                 "key": "date",
-                "value": "Tue, 06 May 2025 05:31:14 GMT"
+                "value": "Tue, 06 May 2025 06:03:15 GMT"
             },
             {
                 "key": "content-type",
-                "value": "text/html"
+                "value": "application/json"
             },
             {
-                "key": "content-length",
-                "value": "146"
+                "key": "transfer-encoding",
+                "value": "chunked"
             },
             {
                 "key": "connection",
                 "value": "close"
-            },
-            {
-                "key": "server",
-                "value": "nginx"
-            },
-            {
-                "key": "vary",
-                "value": "Accept-Encoding"
             },
             {
                 "key": "access-control-allow-origin",
@@ -94,19 +90,15 @@
             },
             {
                 "key": "access-control-allow-methods",
-                "value": "GET, POST, OPTIONS"
+                "value": "GET, POST, DELETE, PUT"
             },
             {
                 "key": "access-control-allow-headers",
-                "value": "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type"
+                "value": "Content-Type, api_key, Authorization"
             },
             {
-                "key": "x-frame-options",
-                "value": "DENY"
-            },
-            {
-                "key": "content-security-policy",
-                "value": "frame-ancestors 'none'"
+                "key": "server",
+                "value": "Jetty(9.2.9.v20150224)"
             }
         ],
         "StatusCode": 404,

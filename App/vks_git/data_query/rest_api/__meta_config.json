@@ -1,0 +1,45 @@
+{
+    "HEADERS": {
+        "date": "Tue, 06 May 2025 06:02:55 GMT",
+        "content_type": "text/html; charset=UTF-8",
+        "transfer_encoding": "chunked",
+        "connection": "close",
+        "server": "cloudflare",
+        "x_powered_by": "PHP/8.1.32",
+        "via": "1.1 varnish (Varnish/6.3), 1.1 varnish (Varnish/6.3)",
+        "x_cache_hits": "6",
+        "x_cache": "HIT",
+        "cf_cache_status": "DYNAMIC",
+        "age": "70",
+        "vary": "Accept-Encoding",
+        "cf_ray": "93b6457c3b568377-BOM",
+        "alt_svc": "h3=\":443\"; ma=86400"
+    },
+    "RESPONSE_CODE": 200,
+    "RESPONSE_MESSAGE": "OK",
+    "FAILURE_CODE": "",
+    "FAILURE_MESSAGE": "",
+    "TIMESTAMP": {
+        "request_arrival": 1746511374551,
+        "request_validation": 1746511374551,
+        "query_preparation": 1746511374690,
+        "query_execution": 1746511374691,
+        "post_processing": 1746511375171,
+        "response": 1746511375172,
+        "transfer_data_arrival": 1746511375175,
+        "dataquery_preparation_arrival": 1746511374544,
+        "binding_post_processing_arrival": 1746511375176
+    },
+    "DURATION": {
+        "turn_around": 621,
+        "authentication": 0,
+        "validation": 139,
+        "preparation": 1,
+        "execution": 480,
+        "processing": 1,
+        "transfer_data": 8,
+        "prepare_data_query": 2,
+        "post_processing": null
+    },
+    "RESPONSE_SIZE": 7408
+}

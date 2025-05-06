@@ -1,9 +1,9 @@
 {
-    "api_name": "variable_Rhv4v8dpmMzNIYcuw1746510113422",
-    "cat_id": "__REPLACE_CAT_ID_1000878___",
-    "cat_name": "__REPLACE_CAT_NAME_1000878___",
-    "sub_cat_name": "query_3",
-    "cat_icon_url": "./Images/dblogos/mysql.png",
+    "api_name": "variable_R3joPAEKKlxzkXDN11746511195418",
+    "cat_id": "__REPLACE_CAT_ID_1000824___",
+    "cat_name": "__REPLACE_CAT_NAME_1000824___",
+    "sub_cat_name": "mongo",
+    "cat_icon_url": "./Images/dblogos/mongo.png",
     "method": "db_query",
     "query": {},
     "param": {},
@@ -12,12 +12,12 @@
         "mode": "db_query",
         "formdata": {},
         "variables": {
-            "table": {
-                "keyName": "table",
+            "collectionName": {
+                "keyName": "collectionName",
                 "isField": true,
                 "keyType": "text",
-                "keyValue": "Dept",
-                "testValue": "Dept",
+                "keyValue": "customers",
+                "testValue": "customers",
                 "preselect": false,
                 "name": "",
                 "label": "",
@@ -35,19 +35,17 @@
     "execution_condition_variable": "",
     "error_msg": "",
     "scheme_type": "db_connector",
-    "account_id": "__REPLACE_ACCOUNT_ID_1000878___",
+    "account_id": "__REPLACE_ACCOUNT_ID_1000824___",
     "filterObjectMapping": [],
     "sanitizeResponseFlag": false,
     "allow_offline_submission": false,
     "download_as_file": false,
     "secureResponse": false,
-    "rawResponse": [
-        {
-            "id": 12,
-            "name": "emp",
-            "emp_id": 232
-        }
-    ],
+    "rawResponse": {
+        "_id": "62d680a732cfdc4b0f744464",
+        "name": "Company Inc",
+        "address": "Highway 37"
+    },
     "processedResp": {},
     "paginationType": "none",
     "offsetKeyPath": "",
@@ -58,10 +56,6 @@
     "bindedTo": "variable",
     "createdVia": "variable",
     "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
-    "filterKeysOptions": {
-        "id": "12",
-        "name": "emp",
-        "emp_id": "232"
-    },
-    "cat_type": "mysql"
+    "filterKeysOptions": {},
+    "cat_type": "mongodb"
 }
