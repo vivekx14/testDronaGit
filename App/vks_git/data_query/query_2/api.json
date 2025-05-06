@@ -1,0 +1,48 @@
+{
+    "method": "GET",
+    "header": [],
+    "body": {
+        "mode": "application/x-www-form-urlencoded",
+        "formdata": []
+    },
+    "url": {
+        "raw": "https://petstore.swagger.io/{version}/pet/{id}",
+        "protocol": "https",
+        "query": [],
+        "param": [
+            {
+                "contentType": "",
+                "keyName": "version",
+                "keyType": "String",
+                "keyDValue": "",
+                "keyIsDynamic": true,
+                "keyIsMandatory": false,
+                "keyIsTooltip": "",
+                "keyPreselectValues": "",
+                "keyValue": "{{version}}",
+                "dynamic_var_key_value_pair": {
+                    "version": "v2"
+                }
+            },
+            {
+                "contentType": "",
+                "keyName": "id",
+                "keyType": "String",
+                "keyDValue": "",
+                "keyIsDynamic": true,
+                "keyIsMandatory": false,
+                "keyIsTooltip": "",
+                "keyPreselectValues": "",
+                "keyValue": "{{id}}",
+                "dynamic_var_key_value_pair": {
+                    "id": "1"
+                }
+            }
+        ]
+    },
+    "account_id": "__REPLACE_ACCOUNT_ID_1001336___",
+    "description": "",
+    "remove_empty_keys": false,
+    "skip_uri_component_encoding": false,
+    "request_timeout": 5000
+}

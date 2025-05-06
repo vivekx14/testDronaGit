@@ -1,0 +1,19 @@
+{
+    "method": "GET",
+    "header": [],
+    "body": {
+        "mode": "application/x-www-form-urlencoded",
+        "formdata": []
+    },
+    "url": {
+        "raw": "https://dog.ceo/",
+        "protocol": "https",
+        "query": [],
+        "param": []
+    },
+    "account_id": "__REPLACE_ACCOUNT_ID_10001___",
+    "description": "",
+    "remove_empty_keys": false,
+    "skip_uri_component_encoding": false,
+    "request_timeout": 5000
+}

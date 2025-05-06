@@ -1,0 +1,11 @@
+{
+    "HEADERS": {
+        "cache_control": "no-cache, private",
+        "content_length": "113",
+        "content_type": "application/json"
+    },
+    "RESPONSE_CODE": 200,
+    "RESPONSE_MESSAGE": "",
+    "FAILURE_CODE": "",
+    "FAILURE_MESSAGE": ""
+}

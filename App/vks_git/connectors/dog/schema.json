@@ -1,0 +1,11 @@
+{
+    "cat_id": 10001,
+    "channel_id": 2,
+    "cat_auth_scheme": "no_auth",
+    "cat_desc": "",
+    "cat_icon": "./Images/dblogos/restapi.png",
+    "cat_name": "dog",
+    "cat_type": "",
+    "db_type": "",
+    "is_deleted": 0
+}

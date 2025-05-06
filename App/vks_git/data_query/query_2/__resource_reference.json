@@ -1,0 +1,146 @@
+{
+    "name": "variable_RskdPpGUHQOdEkaHT1746509373040",
+    "channel_id": "__REPLACE_CHANNEL_ID___",
+    "category_id": "__REPLACE_CAT_ID_1001336___",
+    "sub_category_id": null,
+    "response": {
+        "contentType": "application/json",
+        "content": {
+            "id": 1,
+            "category": {
+                "id": 3,
+                "name": "Snake"
+            },
+            "name": "Orochimaru",
+            "photoUrls": [
+                ""
+            ],
+            "tags": [
+                {
+                    "id": 303,
+                    "name": "Orochimaru"
+                }
+            ],
+            "status": "sold"
+        },
+        "Headers": [
+            {
+                "key": "date",
+                "value": "Tue, 06 May 2025 05:31:47 GMT"
+            },
+            {
+                "key": "content-type",
+                "value": "application/json"
+            },
+            {
+                "key": "transfer-encoding",
+                "value": "chunked"
+            },
+            {
+                "key": "connection",
+                "value": "close"
+            },
+            {
+                "key": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "key": "access-control-allow-methods",
+                "value": "GET, POST, DELETE, PUT"
+            },
+            {
+                "key": "access-control-allow-headers",
+                "value": "Content-Type, api_key, Authorization"
+            },
+            {
+                "key": "server",
+                "value": "Jetty(9.2.9.v20150224)"
+            }
+        ],
+        "StatusCode": 200,
+        "StatusDescription": "OK"
+    },
+    "failure": {
+        "contentType": "text/html",
+        "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+        "Headers": [
+            {
+                "key": "date",
+                "value": "Tue, 06 May 2025 05:31:14 GMT"
+            },
+            {
+                "key": "content-type",
+                "value": "text/html"
+            },
+            {
+                "key": "content-length",
+                "value": "146"
+            },
+            {
+                "key": "connection",
+                "value": "close"
+            },
+            {
+                "key": "server",
+                "value": "nginx"
+            },
+            {
+                "key": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "key": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "key": "access-control-allow-methods",
+                "value": "GET, POST, OPTIONS"
+            },
+            {
+                "key": "access-control-allow-headers",
+                "value": "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type"
+            },
+            {
+                "key": "x-frame-options",
+                "value": "DENY"
+            },
+            {
+                "key": "content-security-policy",
+                "value": "frame-ancestors 'none'"
+            }
+        ],
+        "StatusCode": 404,
+        "StatusDescription": "Not Found"
+    },
+    "failureCondition": [],
+    "proxy": false,
+    "preselectfields": [
+        {
+            "field_key": "param.version",
+            "field_name": "version",
+            "field_default_value": "",
+            "field_mandatory": false,
+            "field_hidden": false,
+            "helptext": "",
+            "preselect_formula": ""
+        },
+        {
+            "field_key": "param.id",
+            "field_name": "id",
+            "field_default_value": "",
+            "field_mandatory": false,
+            "field_hidden": false,
+            "helptext": "",
+            "preselect_formula": ""
+        }
+    ],
+    "preselectvariables": [],
+    "service_type": null,
+    "scheme_type": "no_auth",
+    "cat_format_id": "",
+    "includeBodyHash": false,
+    "dynamic_variables": [],
+    "instructions": "",
+    "bindable": false,
+    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__"
+}

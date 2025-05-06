@@ -1,0 +1,124 @@
+{
+    "category_id": 10001,
+    "channel_id": 2,
+    "sub_category_id": 1001937,
+    "bindable": true,
+    "failure": {
+        "Header": [],
+        "StatusCode": 0,
+        "StatusDescription": "",
+        "content": "",
+        "success": false
+    },
+    "failureCondition": [],
+    "name": "randomdog125",
+    "plugin_id": 0,
+    "preselectfields": [],
+    "preselectvariables": [],
+    "proxy": true,
+    "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+            "mode": "application/x-www-form-urlencoded",
+            "formdata": []
+        },
+        "url": {
+            "raw": "https://dog.ceo/api/breeds/image/random",
+            "protocol": "https",
+            "query": [],
+            "param": []
+        },
+        "account_id": null,
+        "description": "",
+        "remove_empty_keys": false,
+        "skip_uri_component_encoding": false,
+        "request_timeout": 2000
+    },
+    "response": {
+        "Headers": [
+            {
+                "Name": "date",
+                "Value": ""
+            },
+            {
+                "Name": "content-type",
+                "Value": "application/json"
+            },
+            {
+                "Name": "transfer-encoding",
+                "Value": ""
+            },
+            {
+                "Name": "connection",
+                "Value": ""
+            },
+            {
+                "Name": "x-powered-by",
+                "Value": ""
+            },
+            {
+                "Name": "cache-control",
+                "Value": ""
+            },
+            {
+                "Name": "access-control-allow-origin",
+                "Value": ""
+            },
+            {
+                "Name": "via",
+                "Value": ""
+            },
+            {
+                "Name": "x-cache-hits",
+                "Value": ""
+            },
+            {
+                "Name": "x-cache",
+                "Value": ""
+            },
+            {
+                "Name": "age",
+                "Value": ""
+            },
+            {
+                "Name": "vary",
+                "Value": ""
+            },
+            {
+                "Name": "cf-cache-status",
+                "Value": ""
+            },
+            {
+                "Name": "report-to",
+                "Value": ""
+            },
+            {
+                "Name": "nel",
+                "Value": ""
+            },
+            {
+                "Name": "server",
+                "Value": ""
+            },
+            {
+                "Name": "cf-ray",
+                "Value": ""
+            },
+            {
+                "Name": "alt-svc",
+                "Value": ""
+            }
+        ],
+        "success": "true",
+        "ContentType": "application/json",
+        "content": {
+            "message": "string",
+            "status": "string"
+        },
+        "StatusCode": 200,
+        "StatusDescription": "OK"
+    },
+    "display_name": "",
+    "is_deleted": 0
+}

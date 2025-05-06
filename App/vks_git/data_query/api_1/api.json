@@ -1,0 +1,53 @@
+{
+    "content_type": "application/x-www-form-urlencoded",
+    "request_method": "GET",
+    "request_endpoint": "https://dog.ceo/api/breeds/image/{{endpoint}}",
+    "request_parameter": [],
+    "request_header": [],
+    "request_body": {
+        "type": "application/x-www-form-urlencoded",
+        "data": []
+    },
+    "test_values": {
+        "endpoint": "random"
+    },
+    "sanitize_response_flag": false,
+    "allow_offline_submission": false,
+    "download_as_file": false,
+    "raw_response": {
+        "message": "https://images.dog.ceo/breeds/dachshund/dachshund-in-jacket.jpg",
+        "status": "success"
+    },
+    "execution_condition": "",
+    "error_msg": "",
+    "failure_condition": {
+        "conditions": [],
+        "success_config": {
+            "content": {
+                "message": "https://images.dog.ceo/breeds/dachshund/dachshund-in-jacket.jpg",
+                "status": "success"
+            },
+            "StatusCode": 200,
+            "StatusDescription": "OK",
+            "Headers": [
+                {
+                    "Name": "cache_control",
+                    "Value": "no-cache, private"
+                },
+                {
+                    "Name": "content_length",
+                    "Value": "102"
+                },
+                {
+                    "Name": "content_type",
+                    "Value": "application/json"
+                }
+            ]
+        },
+        "error_config": {}
+    },
+    "filter_keys_options": {},
+    "auto_transform": false,
+    "proxyCall": false,
+    "request_timeout": 5000
+}

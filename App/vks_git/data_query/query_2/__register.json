@@ -1,0 +1,87 @@
+{
+    "api_name": "variable_RskdPpGUHQOdEkaHT1746509373040",
+    "cat_id": "__REPLACE_CAT_ID_1001336___",
+    "cat_name": "__REPLACE_CAT_NAME_1001336___",
+    "sub_cat_name": "query_2",
+    "cat_icon_url": "./Images/dblogos/restapi.png",
+    "method": "get",
+    "query": {},
+    "param": {
+        "version": {
+            "keyName": "version",
+            "isField": true,
+            "keyType": "text",
+            "keyValue": "v2",
+            "testValue": "v2",
+            "preselect": false,
+            "name": "",
+            "label": "",
+            "isDynamic": false,
+            "keyNameMapping": [],
+            "editor_type": "JSEditor"
+        },
+        "id": {
+            "keyName": "id",
+            "isField": true,
+            "keyType": "text",
+            "keyValue": "1",
+            "testValue": "1",
+            "preselect": false,
+            "name": "",
+            "label": "",
+            "isDynamic": false,
+            "keyNameMapping": [],
+            "editor_type": "JSEditor"
+        }
+    },
+    "header": {},
+    "body": {
+        "mode": "application/x-www-form-urlencoded",
+        "formdata": {},
+        "variables": {}
+    },
+    "auth": {},
+    "triggerOnPageload": false,
+    "autoTransform": false,
+    "execution_editor_type": "JSEditor",
+    "execution_condition_variable_with_name": "",
+    "execution_condition_variable": "",
+    "error_msg": "",
+    "scheme_type": "no_auth",
+    "account_id": "__REPLACE_ACCOUNT_ID_1001336___",
+    "filterObjectMapping": [],
+    "sanitizeResponseFlag": false,
+    "allow_offline_submission": false,
+    "download_as_file": false,
+    "secureResponse": false,
+    "rawResponse": {
+        "id": 1,
+        "category": {
+            "id": 3,
+            "name": "Snake"
+        },
+        "name": "Orochimaru",
+        "photoUrls": [
+            ""
+        ],
+        "tags": [
+            {
+                "id": 303,
+                "name": "Orochimaru"
+            }
+        ],
+        "status": "sold"
+    },
+    "processedResp": {},
+    "paginationType": "none",
+    "offsetKeyPath": "",
+    "hasMoreKeyPath": "",
+    "misc": {},
+    "additionalKeywords": {},
+    "formatedSchema": {},
+    "bindedTo": "variable",
+    "createdVia": "variable",
+    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
+    "filterKeysOptions": {},
+    "cat_type": ""
+}

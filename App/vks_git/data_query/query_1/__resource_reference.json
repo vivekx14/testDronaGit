@@ -1,0 +1,89 @@
+{
+    "name": "variable_RN8x4dkW19GypfiLx1746508998694",
+    "channel_id": "__REPLACE_CHANNEL_ID___",
+    "category_id": "__REPLACE_CAT_ID_10001___",
+    "sub_category_id": null,
+    "response": {
+        "contentType": "text/html; charset=UTF-8",
+        "content": "<!doctype html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\" lang=\"\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\" lang=\"\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\" lang=\"\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"\"> <!--<![endif]-->\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n        <title>Dog CEO - Good Dog Business</title>\n\n        <link rel=\"icon\" type=\"image/png\" href=\"img/favicon.png\" />\n\n        <meta name=\"google-site-verification\" content=\"IXhytJEFec20dH_8dR0aiypBCJLmpq2z26tpgI7siJ4\" />\n        <meta name=\"description\" content=\"Dog CEO. Dog API. Leaders in the dog and canine business world. \">\n        \n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n        <meta property=\"og:url\" content=\"https://dog.ceo\" />\n        <meta property=\"og:type\" content=\"website\" />\n        <meta property=\"og:title\" content=\"Dog CEO. Good Dog Business.\" />\n        <meta property=\"og:description\"  content=\"Leaders in the dog and canine business world.\" />\n        <meta property=\"og:image\" content=\"https://dog.ceo/img/dog-fb-preview.jpg\" />\n\n        <meta name=\"twitter:card\" content=\"summary_large_image\">\n        <meta name=\"twitter:title\" content=\"Dog CEO. Good Dog Business.\">\n        <meta name=\"twitter:description\" content=\"Leaders in the dog and canine business world.\">\n        <meta name=\"twitter:image\" content=\"https://dog.ceo/img/dog-twitter-preview.jpg\">\n\n        \t<link href=\"https://fonts.googleapis.com/css?family=Karla:400,700|Ubuntu+Mono:400\" rel=\"stylesheet\">\r\n\t<link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">\r\n\t<link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\" rel=\"stylesheet\" integrity=\"sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN\" crossorigin=\"anonymous\">\r\n\t<link rel=\"stylesheet\" href=\"/css/main.css\">\r\n\n    </head>\n    <body class=\"homepage\">\n        <!--[if lt IE 8]>\n            <p class=\"browserupgrade\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->\n        <header>\r\n    <div class=\"container\">\r\n        <div class=\"row\">\r\n            <div class=\"col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4\">\r\n                <ul class=\"header-menu\">\r\n                    <li>\r\n                        <a href=\"/\">Dog CEO</a>\r\n                    </li>\r\n                    <li>\r\n                        <img src=\"/img/dog-api-logo.svg\" />\r\n                    </li>\r\n                    <li>\r\n                        <a href=\"/dog-api\">Dog API</a>\r\n                    </li>\r\n                </ul>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</header>    <div class=\"container\">\n          <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2\">\n                <div class=\"row\">\n                    <div class=\"col-sm-7\">\n                        <img src=\"img/dog-ceo-zine.jpg\" alt=\"Dog CEO\" class=\"dog-ceo\" />\n                    </div>\n\n                    <div class=\"col-sm-5\">\n                        <div class=\"strapline\">\n                            <h2>Dog CEO Zine.</h2>\n                            <p>A business and lifestyle magazine for the modern dog.</p>\n                            <p>Issue 1 out now. <a href=\"https://sideorders.co.uk/collections/frontpage/products/dog-ceo-issue-1\" target=\"_blank\">Buy now</a> from Side Orders Publishing. Ships worldwide.</p>\n                            \n                        </div>\n                    </div>\n                </div>\n                \n                <div class=\"row\">\n                    <div class=\"col-md-5 col-md-push-7\">\n                        <a href=\"/dog-api\" class=\"home-button home-dog-api\" style=\"display: block; width: 100%; margin-top: 60px; margin-bottom: 30px;\">\n                            <h3>Dog API</h3>\n                            <span>DaaS (Dogs-as-a-Service): the internet's biggest collection of open source dog pictures</span>\n                            <i class=\"fa fa-paw\"></i>\n                        </a>\n                    </div>\n                    <div class=\"col-md-7 col-md-pull-5\">\n                        <div class=\"latest\">\n                            <h2>Latest:</h2>\n                            <p><a href=\"/10-breeds\">10 Super Adorable Dog Breeds</a></p>\n                            <p><a href=\"/top-ten-tips-for-business\">Read my Top Ten Tips for How to Succeed in Business</a></p>\n                            <p><a href=\"/maths-problems-birch-swinnerton-dyer\">Ask Dog CEO - Solving maths problems (and the Birch and Swinnerton-Dyer conjecture)</a></p>\n                            <p><a href=\"/when-to-roll-over\">Ask Dog CEO: When to roll over in business?</a></p>\n                            \n                        </div>\n                    </div>\n                     \n                </div>\n            </div>\n        </div>\n    </div>\n\n\n    <footer>\r\n    <div class=\"container\">\r\n        <div class=\"row\">\r\n            <div class=\"col-md-4 col-md-offset-4\">\r\n                <div class=\"social-links\">\r\n                    <a href=\"http://www.linkedin.com/in/dog-ceo\" target=\"_blank\">\r\n                        <i class=\"fa fa-linkedin\" aria-hidden=\"true\"></i>\r\n                    </a>\r\n\r\n                    <a href=\"https://twitter.com/dog__CEO\" class=\"social-button\" target=\"_blank\">\r\n                        <i class=\"fa fa-twitter\"></i>\r\n                    </a>\r\n                </div>\r\n                <div class=\"business-advice\">\r\n                    <p>Need business advice?<br>Ask me a question <a href=\"/cdn-cgi/l/email-protection#d5b1bab295b1bab2fbb6b0ba\"><span class=\"__cf_email__\" data-cfemail=\"32565d5572565d551c51575d\">[email&#160;protected]</span></a></p>\r\n                </div>\r\n            </div>\r\n    </div>\r\n</footer>\n    <script data-cfasync=\"false\" src=\"/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js\"></script><script type=\"2db4421343a7909f714276a1-text/javascript\">\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-98107378-1', 'auto');\nga('send', 'pageview');\n\n</script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js\" integrity=\"sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=\" crossorigin=\"anonymous\" type=\"2db4421343a7909f714276a1-text/javascript\"></script>\n<script type=\"2db4421343a7909f714276a1-text/javascript\">\nif (typeof jQuery == 'undefined') {\n    document.write(unescape(\"%3Cscript src='/js/vendor/jquery-3.4.1.min.js' type='text/javascript'%3E%3C/script%3E\"));\n}\n</script>\n<script src=\"/js/main.js\" type=\"2db4421343a7909f714276a1-text/javascript\"></script>    \n    <script src=\"/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js\" data-cf-settings=\"2db4421343a7909f714276a1-|49\" defer></script></body>\n</html>\n",
+        "Headers": [
+            {
+                "key": "date",
+                "value": "Tue, 06 May 2025 05:23:26 GMT"
+            },
+            {
+                "key": "content-type",
+                "value": "text/html; charset=UTF-8"
+            },
+            {
+                "key": "transfer-encoding",
+                "value": "chunked"
+            },
+            {
+                "key": "connection",
+                "value": "close"
+            },
+            {
+                "key": "server",
+                "value": "cloudflare"
+            },
+            {
+                "key": "x-powered-by",
+                "value": "PHP/8.1.32"
+            },
+            {
+                "key": "via",
+                "value": "1.1 varnish (Varnish/6.3), 1.1 varnish (Varnish/6.3)"
+            },
+            {
+                "key": "x-cache-hits",
+                "value": "5"
+            },
+            {
+                "key": "x-cache",
+                "value": "HIT"
+            },
+            {
+                "key": "cf-cache-status",
+                "value": "DYNAMIC"
+            },
+            {
+                "key": "age",
+                "value": "112"
+            },
+            {
+                "key": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "key": "cf-ray",
+                "value": "93b60ba93b82851c-BOM"
+            },
+            {
+                "key": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            }
+        ],
+        "StatusCode": 200,
+        "StatusDescription": "OK"
+    },
+    "failure": {
+        "Header": [],
+        "StatusCode": 0,
+        "StatusDescription": "",
+        "content": "",
+        "success": false
+    },
+    "failureCondition": [],
+    "proxy": false,
+    "preselectfields": [],
+    "preselectvariables": [],
+    "service_type": null,
+    "scheme_type": "no_auth",
+    "cat_format_id": "",
+    "includeBodyHash": false,
+    "dynamic_variables": [],
+    "instructions": "",
+    "bindable": false,
+    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__"
+}

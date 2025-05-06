@@ -1,0 +1,21 @@
+{
+    "cat_id": 10001,
+    "catName": "dog",
+    "catDesc": "",
+    "catIcon": "./Images/dblogos/restapi.png",
+    "schemeType": "no_auth",
+    "cat_created_on": null,
+    "cat_modify_on": "2024-04-04T05:43:22.000Z",
+    "cat_created_by": "",
+    "isGlobal": false,
+    "isEditable": true,
+    "isCatPublic": false,
+    "isInstalled": false,
+    "isCatEditable": true,
+    "showAddOption": true,
+    "cat_type": "",
+    "format_id": "9b298c5e-4080-11ed-832e-0242c0a8d003",
+    "permission": "1000",
+    "multistep_auth_steps": {},
+    "channel_id": "2"
+}

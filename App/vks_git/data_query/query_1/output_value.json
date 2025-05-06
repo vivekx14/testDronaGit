@@ -1,0 +1,137 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Dog CEO - Good Dog Business</title>
+
+        <link rel="icon" type="image/png" href="img/favicon.png" />
+
+        <meta name="google-site-verification" content="IXhytJEFec20dH_8dR0aiypBCJLmpq2z26tpgI7siJ4" />
+        <meta name="description" content="Dog CEO. Dog API. Leaders in the dog and canine business world. ">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta property="og:url" content="https://dog.ceo" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Dog CEO. Good Dog Business." />
+        <meta property="og:description"  content="Leaders in the dog and canine business world." />
+        <meta property="og:image" content="https://dog.ceo/img/dog-fb-preview.jpg" />
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Dog CEO. Good Dog Business.">
+        <meta name="twitter:description" content="Leaders in the dog and canine business world.">
+        <meta name="twitter:image" content="https://dog.ceo/img/dog-twitter-preview.jpg">
+
+        	<link href="https://fonts.googleapis.com/css?family=Karla:400,700|Ubuntu+Mono:400" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body class="homepage">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <header>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4">
+                <ul class="header-menu">
+                    <li>
+                        <a href="/">Dog CEO</a>
+                    </li>
+                    <li>
+                        <img src="/img/dog-api-logo.svg" />
+                    </li>
+                    <li>
+                        <a href="/dog-api">Dog API</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>    <div class="container">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <img src="img/dog-ceo-zine.jpg" alt="Dog CEO" class="dog-ceo" />
+                    </div>
+
+                    <div class="col-sm-5">
+                        <div class="strapline">
+                            <h2>Dog CEO Zine.</h2>
+                            <p>A business and lifestyle magazine for the modern dog.</p>
+                            <p>Issue 1 out now. <a href="https://sideorders.co.uk/collections/frontpage/products/dog-ceo-issue-1" target="_blank">Buy now</a> from Side Orders Publishing. Ships worldwide.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <div class="col-md-5 col-md-push-7">
+                        <a href="/dog-api" class="home-button home-dog-api" style="display: block; width: 100%; margin-top: 60px; margin-bottom: 30px;">
+                            <h3>Dog API</h3>
+                            <span>DaaS (Dogs-as-a-Service): the internet's biggest collection of open source dog pictures</span>
+                            <i class="fa fa-paw"></i>
+                        </a>
+                    </div>
+                    <div class="col-md-7 col-md-pull-5">
+                        <div class="latest">
+                            <h2>Latest:</h2>
+                            <p><a href="/10-breeds">10 Super Adorable Dog Breeds</a></p>
+                            <p><a href="/top-ten-tips-for-business">Read my Top Ten Tips for How to Succeed in Business</a></p>
+                            <p><a href="/maths-problems-birch-swinnerton-dyer">Ask Dog CEO - Solving maths problems (and the Birch and Swinnerton-Dyer conjecture)</a></p>
+                            <p><a href="/when-to-roll-over">Ask Dog CEO: When to roll over in business?</a></p>
+                            
+                        </div>
+                    </div>
+                     
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div class="social-links">
+                    <a href="http://www.linkedin.com/in/dog-ceo" target="_blank">
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+
+                    <a href="https://twitter.com/dog__CEO" class="social-button" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+                <div class="business-advice">
+                    <p>Need business advice?<br>Ask me a question <a href="/cdn-cgi/l/email-protection#b9ddd6def9ddd6de97dadcd6"><span class="__cf_email__" data-cfemail="1c78737b5c78737b327f7973">[email&#160;protected]</span></a></p>
+                </div>
+            </div>
+    </div>
+</footer>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="2a7a5a40f1a770a54b834e04-text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-98107378-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous" type="2a7a5a40f1a770a54b834e04-text/javascript"></script>
+<script type="2a7a5a40f1a770a54b834e04-text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='/js/vendor/jquery-3.4.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+<script src="/js/main.js" type="2a7a5a40f1a770a54b834e04-text/javascript"></script>    
+    <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="2a7a5a40f1a770a54b834e04-|49" defer></script></body>
+</html>
