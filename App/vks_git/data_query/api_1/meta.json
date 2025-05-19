@@ -2,13 +2,10 @@
     "__dhq_formula_Dtype": "string",
     "__dhq_keywords_mapping_Dtype": "object",
     "allow_offline_submission": false,
-    "auto_evaluate": false,
     "created_at": 1746508951996,
     "datatype": "composite_list",
     "defaultValue": "",
-    "dhq_req_stats": {
-        "status": "resolved"
-    },
+    "dhq_req_stats": {},
     "dhq_set_value_via_action": false,
     "display_name": "api_1",
     "download_as_file": false,
