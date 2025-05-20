@@ -1,7 +1,7 @@
 {
     "name": "variable_RN8x4dkW19GypfiLx1746508998694",
-    "channel_id": "__REPLACE_CHANNEL_ID___",
-    "category_id": "__REPLACE_CAT_ID_10001___",
+    "channel_id": 2,
+    "category_id": 10001,
     "sub_category_id": null,
     "response": {
         "contentType": "text/html; charset=UTF-8",
@@ -85,5 +85,5 @@
     "dynamic_variables": [],
     "instructions": "",
     "bindable": false,
-    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__"
+    "resource_reference": "resource_reference_RJ2ocWxXnCO3Ct08b1746511374536"
 }
