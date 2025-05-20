@@ -54,7 +54,15 @@
         "data": {}
     },
     "dhq_nsf_replaced": false,
-    "dhq_olddt_map": {},
+    "dhq_olddt_map": {
+        "value": "value",
+        "name": "name",
+        "description": "description",
+        "color": "color",
+        "image": "image",
+        "prefix": "prefix",
+        "icon": "icon"
+    },
     "dhq_req_stats": {
         "status": ""
     },
@@ -64,14 +72,14 @@
     "dhqGrid": {
         "w": 8,
         "h": 8,
-        "x": 10,
+        "x": 4,
         "y": 15
     },
     "dhqGridChanged": false,
     "dhqGridDesktop": {
         "w": 8,
         "h": 8,
-        "x": 10,
+        "x": 4,
         "y": 15
     },
     "disabled": false,
