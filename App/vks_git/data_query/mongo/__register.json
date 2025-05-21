@@ -1,7 +1,7 @@
 {
     "api_name": "variable_R3joPAEKKlxzkXDN11746511195418",
-    "cat_id": 1000824,
-    "cat_name": "AJ_mongodb_mydb",
+    "cat_id": "__REPLACE_CAT_ID_1000824___",
+    "cat_name": "__REPLACE_CAT_NAME_1000824___",
     "sub_cat_name": "mongo",
     "cat_icon_url": "./Images/dblogos/mongo.png",
     "method": "db_query",
@@ -27,26 +27,7 @@
             }
         }
     },
-    "auth": {
-        "environment_config": {
-            "env_1": "account_90329082_1720078860713",
-            "env_2": "",
-            "env_3": "",
-            "env_17": "",
-            "env_18": "",
-            "env_19": "",
-            "env_20": "",
-            "env_21": "",
-            "env_22": "",
-            "env_23": "",
-            "env_24": "",
-            "env_25": "",
-            "env_26": ""
-        },
-        "type": "db_connector",
-        "account_id": "account_90329082_1720078860713",
-        "whitelist_ip": false
-    },
+    "auth": {},
     "triggerOnPageload": false,
     "autoTransform": false,
     "execution_editor_type": "JSEditor",
@@ -54,7 +35,7 @@
     "execution_condition_variable": "",
     "error_msg": "",
     "scheme_type": "db_connector",
-    "account_id": "account_90329082_1720078860713",
+    "account_id": "__REPLACE_ACCOUNT_ID_1000824___",
     "filterObjectMapping": [],
     "sanitizeResponseFlag": false,
     "allow_offline_submission": false,
@@ -74,7 +55,7 @@
     "formatedSchema": {},
     "bindedTo": "variable",
     "createdVia": "variable",
-    "resource_reference": "resource_reference_RJfwSTY0WvKj2R2Ff1746511678363",
+    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
     "filterKeysOptions": {},
     "cat_type": "mongodb"
 }

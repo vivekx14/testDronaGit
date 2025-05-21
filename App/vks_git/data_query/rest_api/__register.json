@@ -1,7 +1,7 @@
 {
     "api_name": "variable_RN8x4dkW19GypfiLx1746508998694",
-    "cat_id": 10001,
-    "cat_name": "dog",
+    "cat_id": "__REPLACE_CAT_ID_10001___",
+    "cat_name": "__REPLACE_CAT_NAME_10001___",
     "sub_cat_name": "rest_api",
     "cat_icon_url": "./Images/dblogos/restapi.png",
     "method": "get",
@@ -13,26 +13,7 @@
         "formdata": {},
         "variables": {}
     },
-    "auth": {
-        "environment_config": {
-            "env_1": "account_87065161_1664515662840",
-            "env_2": "account_35275450_1698736437991",
-            "env_3": "",
-            "env_17": "",
-            "env_18": "",
-            "env_19": "",
-            "env_20": "",
-            "env_21": "",
-            "env_22": "",
-            "env_23": "",
-            "env_24": "",
-            "env_25": "",
-            "env_26": ""
-        },
-        "type": "no_auth",
-        "account_id": "account_87065161_1664515662840",
-        "whitelist_ip": false
-    },
+    "auth": {},
     "triggerOnPageload": false,
     "autoTransform": false,
     "execution_editor_type": "JSEditor",
@@ -40,7 +21,7 @@
     "execution_condition_variable": "",
     "error_msg": "",
     "scheme_type": "no_auth",
-    "account_id": "account_87065161_1664515662840",
+    "account_id": "__REPLACE_ACCOUNT_ID_10001___",
     "filterObjectMapping": [],
     "sanitizeResponseFlag": false,
     "allow_offline_submission": false,
@@ -56,7 +37,7 @@
     "formatedSchema": {},
     "bindedTo": "variable",
     "createdVia": "variable",
-    "resource_reference": "resource_reference_RJ2ocWxXnCO3Ct08b1746511374536",
+    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
     "filterKeysOptions": {},
     "cat_type": ""
 }
