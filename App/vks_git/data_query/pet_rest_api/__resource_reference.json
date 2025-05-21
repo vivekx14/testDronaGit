@@ -1,7 +1,7 @@
 {
     "name": "variable_RskdPpGUHQOdEkaHT1746509373040",
-    "channel_id": "__REPLACE_CHANNEL_ID___",
-    "category_id": "__REPLACE_CAT_ID_1001336___",
+    "channel_id": 2,
+    "category_id": 1001336,
     "sub_category_id": null,
     "response": {
         "contentType": "application/json",
@@ -134,5 +134,5 @@
     "dynamic_variables": [],
     "instructions": "",
     "bindable": false,
-    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__"
+    "resource_reference": "resource_reference_Rzhr0GO66tiASQOy01746511398499"
 }
