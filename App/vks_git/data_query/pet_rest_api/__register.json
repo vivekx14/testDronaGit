@@ -1,7 +1,7 @@
 {
     "api_name": "variable_RskdPpGUHQOdEkaHT1746509373040",
-    "cat_id": "__REPLACE_CAT_ID_1001336___",
-    "cat_name": "__REPLACE_CAT_NAME_1001336___",
+    "cat_id": 1001336,
+    "cat_name": "vivek",
     "sub_cat_name": "pet_rest_api",
     "cat_icon_url": "./Images/dblogos/restapi.png",
     "method": "get",
@@ -40,7 +40,26 @@
         "formdata": {},
         "variables": {}
     },
-    "auth": {},
+    "auth": {
+        "environment_config": {
+            "env_1": "account_13879825_1746509351876",
+            "env_2": "",
+            "env_3": "",
+            "env_17": "",
+            "env_18": "",
+            "env_19": "",
+            "env_20": "",
+            "env_21": "",
+            "env_22": "",
+            "env_23": "",
+            "env_24": "",
+            "env_25": "",
+            "env_26": ""
+        },
+        "type": "no_auth",
+        "account_id": "account_13879825_1746509351876",
+        "whitelist_ip": false
+    },
     "triggerOnPageload": false,
     "autoTransform": false,
     "execution_editor_type": "JSEditor",
@@ -48,7 +67,7 @@
     "execution_condition_variable": "",
     "error_msg": "",
     "scheme_type": "no_auth",
-    "account_id": "__REPLACE_ACCOUNT_ID_1001336___",
+    "account_id": "account_13879825_1746509351876",
     "filterObjectMapping": [],
     "sanitizeResponseFlag": false,
     "allow_offline_submission": false,
@@ -81,7 +100,7 @@
     "formatedSchema": {},
     "bindedTo": "variable",
     "createdVia": "variable",
-    "resource_reference": "__REPLACE_RESOURCE_REFERENCE_ID__",
+    "resource_reference": "resource_reference_Rzhr0GO66tiASQOy01746511398499",
     "filterKeysOptions": {},
     "cat_type": ""
 }
