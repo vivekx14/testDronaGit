@@ -1,0 +1,19 @@
+{
+  "channel_id": 2,
+  "template_id": "6818c92f0590d570a242a5d3",
+  "name": "temp123",
+  "global": false,
+  "pdf_type": "regular",
+  "pdf_version": "draft",
+  "preview_img": "",
+  "variable_map": "",
+  "photo_variable_map": "",
+  "summary_variable_map": "",
+  "list_variable_map": "",
+  "photo_list_variable_map": "",
+  "version_notes": "",
+  "created_by": "brijesh@studio.com",
+  "created_at": 1746454831855,
+  "updated_at": 1746454831855,
+  "global_settings": ""
+}
