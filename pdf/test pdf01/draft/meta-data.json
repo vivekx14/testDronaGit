@@ -1,0 +1,17 @@
+{
+  "channel_id": 2,
+  "template_id": "67e3b0f003090a464f08ca20",
+  "name": "test pdf01",
+  "global": false,
+  "pdf_version": "draft",
+  "preview_img": "",
+  "variable_map": {},
+  "photo_variable_map": {},
+  "summary_variable_map": {},
+  "list_variable_map": {},
+  "photo_list_variable_map": {},
+  "version_notes": "",
+  "created_by": "brijesh@studio.com",
+  "created_at": 1742975216861,
+  "updated_at": 1740299025617
+}
