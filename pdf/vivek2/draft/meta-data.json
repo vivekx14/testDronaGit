@@ -5,16 +5,15 @@
   "created_at": 1748241307977,
   "created_by": "brijesh@studio.com",
   "global": false,
-  "list_variable_map": "",
+  "list_variable_map": {},
   "name": "vivek2",
   "pdf_type": "regular",
-  "photo_list_variable_map": "",
-  "photo_variable_map": "",
+  "photo_list_variable_map": {},
+  "photo_variable_map": {},
   "preview_img": "",
-  "summary_variable_map": "",
-  "updated_at": 1748241307977,
-  "variable_map": "",
+  "summary_variable_map": {},
+  "updated_at": 1745598975325,
+  "variable_map": {},
   "version_notes": "",
-  "git": true,
-  "global_settings": ""
+  "git": true
 }
