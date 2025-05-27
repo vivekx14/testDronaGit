@@ -1,9 +1,10 @@
 {
-  "pdf_version": "draft",
   "channel_id": 2,
   "template_id": "68346b5da27595d10c35375e",
+  "pdf_version": "draft",
   "created_at": 1748265821237,
   "created_by": "brijesh@studio.com",
+  "git": true,
   "global": false,
   "list_variable_map": "",
   "name": "vivek2",
@@ -15,6 +16,5 @@
   "updated_at": 1748265821237,
   "variable_map": "",
   "version_notes": "",
-  "git": true,
   "global_settings": ""
 }
