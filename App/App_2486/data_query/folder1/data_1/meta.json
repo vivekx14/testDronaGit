@@ -5,7 +5,9 @@
     "created_at": 1748520675069,
     "datatype": "string",
     "defaultValue": "",
-    "dhq_req_stats": {},
+    "dhq_req_stats": {
+        "status": "resolved"
+    },
     "dhq_set_value_via_action": false,
     "display_name": "data_1",
     "download_as_file": false,
@@ -27,6 +29,6 @@
     "sb_mode": "JS",
     "state": "success",
     "type": "non-persistent",
-    "variable_parent_folder_id": null,
+    "variable_parent_folder_id": "folder_R0DrwWhMkCUfvqGuo1748520975124",
     "whenToExecuteObj": {}
 }
