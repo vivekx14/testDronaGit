@@ -1,0 +1,19 @@
+{
+  "channel_id": 2,
+  "template_id": "682586d3dbd2a9e9420b23cd",
+  "name": "saurabh",
+  "global": false,
+  "pdf_type": "regular",
+  "pdf_version": "draft",
+  "preview_img": "",
+  "variable_map": {},
+  "photo_variable_map": {},
+  "summary_variable_map": {},
+  "list_variable_map": {},
+  "photo_list_variable_map": {},
+  "version_notes": "",
+  "created_by": "brijesh@studio.com",
+  "created_at": 1747289811938,
+  "updated_at": 1745177223270,
+  "git": true
+}

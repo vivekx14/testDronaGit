@@ -1,0 +1,37 @@
+{
+  "channel_id": 2,
+  "template_id": "682431eaa636f649fa7950de",
+  "name": "ShreyaAllVarTest",
+  "global": false,
+  "pdf_type": "regular",
+  "pdf_version": "draft",
+  "preview_img": "",
+  "variable_map": {
+    "firstName_1747202553054": "firstName"
+  },
+  "photo_variable_map": {
+    "imageURL_1747202585097": "imageURL"
+  },
+  "summary_variable_map": {
+    "summary_report_1747202611998": {
+      "name": "summary_report",
+      "screenNameFontColor": "rgb(19, 62, 104)",
+      "tableHeaderALabel": "Response",
+      "tableHeaderBgColor": "rgb(19, 62, 104)",
+      "tableHeaderFontColor": "rgb(255, 255, 255)",
+      "tableHeaderQLabel": "Question",
+      "tableSectionBgColor": "rgb(231, 235, 239)",
+      "tableSectionFontColor": ""
+    }
+  },
+  "list_variable_map": {
+    "bookName_1747202665089": "bookName"
+  },
+  "photo_list_variable_map": {
+    "bookCove_1747202699318": "bookCover"
+  },
+  "version_notes": "",
+  "created_by": "brijesh@studio.com",
+  "created_at": 1747202538088,
+  "updated_at": 1744544565930
+}
