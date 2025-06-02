@@ -1,0 +1,37 @@
+{
+  "pdf_version": "1.0.0",
+  "template_id": "682431eaa636f649fa7950de",
+  "channel_id": 2,
+  "created_at": 1747202538088,
+  "created_by": "brijesh@studio.com",
+  "global": false,
+  "list_variable_map": {
+    "bookName_1747202665089": "bookName"
+  },
+  "name": "ShreyaAllVarTest",
+  "pdf_type": "regular",
+  "photo_list_variable_map": {
+    "bookCove_1747202699318": "bookCover"
+  },
+  "photo_variable_map": {
+    "imageURL_1747202585097": "imageURL"
+  },
+  "preview_img": "",
+  "summary_variable_map": {
+    "summary_report_1747202611998": {
+      "name": "summary_report",
+      "screenNameFontColor": "rgb(19, 62, 104)",
+      "tableHeaderALabel": "Response",
+      "tableHeaderBgColor": "rgb(19, 62, 104)",
+      "tableHeaderFontColor": "rgb(255, 255, 255)",
+      "tableHeaderQLabel": "Question",
+      "tableSectionBgColor": "rgb(231, 235, 239)",
+      "tableSectionFontColor": ""
+    }
+  },
+  "updated_at": 1744544132747,
+  "variable_map": {
+    "firstName_1747202553054": "firstName"
+  },
+  "version_notes": "All Var Test"
+}

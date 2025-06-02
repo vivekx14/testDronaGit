@@ -1,0 +1,19 @@
+{
+  "channel_id": 2,
+  "pdf_version": "1.0.1",
+  "template_id": "68063be7dac9519909e033f7",
+  "created_at": 1745239015142,
+  "created_by": "brijesh@studio.com",
+  "global": false,
+  "list_variable_map": {},
+  "name": "testsouleh",
+  "photo_list_variable_map": {},
+  "photo_variable_map": {},
+  "preview_img": "",
+  "summary_variable_map": {},
+  "updated_at": 1742747928509,
+  "variable_map": {
+    "name1_1745406520891": "name1"
+  },
+  "version_notes": "s"
+}
