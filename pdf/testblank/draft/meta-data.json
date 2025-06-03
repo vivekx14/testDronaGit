@@ -1,0 +1,19 @@
+{
+  "channel_id": 2,
+  "template_id": "683e946fe553ed97028f1ff9",
+  "name": "testblank",
+  "global": false,
+  "pdf_type": "regular",
+  "pdf_version": "draft",
+  "preview_img": "",
+  "variable_map": "",
+  "photo_variable_map": "",
+  "summary_variable_map": "",
+  "list_variable_map": "",
+  "photo_list_variable_map": "",
+  "version_notes": "",
+  "created_by": "brijesh@studio.com",
+  "created_at": 1748931695590,
+  "updated_at": 1748931695590,
+  "global_settings": ""
+}
