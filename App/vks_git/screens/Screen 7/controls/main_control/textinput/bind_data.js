@@ -1,1 +1,0 @@
-{{tablegrid1[0].phone}}

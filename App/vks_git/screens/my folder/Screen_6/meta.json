@@ -1,17 +1,17 @@
 {
-    "label": "Screen 7",
+    "label": "Screen 6",
     "page_type": "page",
     "attached_menu": " ",
     "attached_header": "none",
     "undefined": "",
     "field_type": "page",
-    "page_no": 7,
+    "page_no": 6,
     "page_icon": "Visual",
     "open_from": "right",
     "tray_outside_click": true,
     "enable_overflow_popup": false,
-    "page_nav_url": "screen-7",
-    "page_name": "Screen 7",
+    "page_nav_url": "Screen_6",
+    "page_name": "Screen_6",
     "open_on_web": true,
     "menu_sticky_width": "30",
     "menu_sticky_width_unit": "%",
@@ -27,6 +27,6 @@
     "event_items": {},
     "dhqEvtConverted": true,
     "isGridView": true,
-    "id": "c120Ri7rZTekJ1FlSOVOj",
-    "orderIndex": 4
+    "id": "c74RYdXzjIU5eDw35jPo",
+    "orderIndex": 3
 }
