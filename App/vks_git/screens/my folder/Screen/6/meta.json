@@ -11,7 +11,7 @@
     "tray_outside_click": true,
     "enable_overflow_popup": false,
     "page_nav_url": "Screen6",
-    "page_name": "Screen_6",
+    "page_name": "Screen/6",
     "open_on_web": true,
     "menu_sticky_width": "30",
     "menu_sticky_width_unit": "%",

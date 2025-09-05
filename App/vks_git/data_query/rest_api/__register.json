@@ -13,7 +13,26 @@
         "formdata": {},
         "variables": {}
     },
-    "auth": {},
+    "auth": {
+        "environment_config": {
+            "env_1": "account_87065161_1664515662840",
+            "env_2": "account_35275450_1698736437991",
+            "env_3": "",
+            "env_17": "",
+            "env_18": "",
+            "env_19": "",
+            "env_20": "",
+            "env_21": "",
+            "env_22": "",
+            "env_23": "",
+            "env_24": "",
+            "env_25": "",
+            "env_26": ""
+        },
+        "type": "no_auth",
+        "account_id": "account_87065161_1664515662840",
+        "whitelist_ip": false
+    },
     "triggerOnPageload": false,
     "autoTransform": false,
     "execution_editor_type": "JSEditor",
@@ -21,7 +40,7 @@
     "execution_condition_variable": "",
     "error_msg": "",
     "scheme_type": "no_auth",
-    "account_id": "__REPLACE_ACCOUNT_ID_10001___",
+    "account_id": "account_87065161_1664515662840",
     "filterObjectMapping": [],
     "sanitizeResponseFlag": false,
     "allow_offline_submission": false,
