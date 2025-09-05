@@ -15,7 +15,7 @@
     "showAddOption": true,
     "cat_type": "",
     "format_id": "9b298c5e-4080-11ed-832e-0242c0a8d003",
-    "permission": "0010",
+    "permission": "1000",
     "multistep_auth_steps": {},
     "channel_id": "2"
 }
