@@ -879,7 +879,6 @@
     "paginationLocation": "bottom",
     "PaginationSide": "serversidepagination",
     "paginationType": "limitOffsetBased",
-    "parent_id": "",
     "persist_filters": true,
     "persistantsorting": false,
     "placeholder": "Search",
