@@ -7,8 +7,11 @@
         "c117RcxPaJCi8J5NmzwZh",
         "c81R0afjIrh57NYzpKBu",
         "c53RCUMKoUrWyduD9H32",
-        "c74RYdXzjIU5eDw35jPo",
-        "c120Ri7rZTekJ1FlSOVOj"
+       "my folder"
     ],
-    "definition": {}
-}
+    "definition": {
+        "my folder": [
+            "c74RYdXzjIU5eDw35jPo",
+            "c120Ri7rZTekJ1FlSOVOj"
+        ]
+    }

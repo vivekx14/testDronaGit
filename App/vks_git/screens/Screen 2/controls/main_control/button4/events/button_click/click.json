@@ -23,7 +23,7 @@
             "fields": {
                 "navigateTo": {
                     "key": "navigateTo",
-                    "value": "screen-6",
+                    "value": "Screen6",
                     "name": "screen-6",
                     "label": "Navigate To",
                     "isField": false,
